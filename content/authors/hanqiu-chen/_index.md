@@ -25,13 +25,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Nanjing University
+    url: https://www.nju.edu.cn/
 education:
   courses:
     - course: BS in Physics(expected)
       institution: Nanjing University
-      year: -3
+      year: 2022
 email: 181870014@smail.nju.edu.cn
 superuser: true
 user_groups:
