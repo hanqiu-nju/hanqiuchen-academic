@@ -29,17 +29,13 @@ organizations:
     url: https://www.nju.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BS in Physics(expected)
+      institution: Nanjing University
+      year: ""
+email: 181870014@smail.nju.edu.cn
 superuser: true
+user_groups:
+  - Nanjing University
 highlight_name: true
 ---
 Hanqiu Chen is a senior student from elite program in School of Physics at Nanjing University. I am applying for a PhD program in ECE for 2022 semester. My research interests include software-hardware co-design: hardware-efficient machine learning, on-device AI; high-performance reconfigurable computing: FPGA, embedded system, IoT, edge computing; neuromorphic computing systems. I am now working with Prof. Callie Hao in Department of ECE at Georgia Tech as a research intern to study AI hardware accelerators on FPGA.
