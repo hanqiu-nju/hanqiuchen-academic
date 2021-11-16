@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Experienced
-  icon: desktop
+  icon: laptop-code
   icon_pack: fab
   name: C/C++
 - description: Experienced
@@ -25,7 +25,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: Experienced
-  icon: desktop
+  icon: laptop-code
   icon_pack: fab
   name: Verilog-HDL
 
