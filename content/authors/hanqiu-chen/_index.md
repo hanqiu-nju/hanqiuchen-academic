@@ -41,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hanqiu Chen is a senior student from elite program in School of Physics at Nanjing University. I am applying for a PhD program in ECE for 2022 semester. My research interests include software-hardware co-design: hardware-efficient machine learning, on-device AI; high-performance reconfigurable computing: FPGA, embedded system, IoT, edge computing; neuromorphic computing systems. I am now working with Prof. Callie Hao in Department of ECE at Georgia Tech as a research intern to study AI hardware accelerators on FPGA.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
