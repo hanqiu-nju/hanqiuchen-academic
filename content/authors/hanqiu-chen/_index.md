@@ -1,6 +1,7 @@
 ---
 title: Hanqiu Chen
 role: Professor of Artificial Intelligence
+avatar_filename: 照片.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
